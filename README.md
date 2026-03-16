@@ -22,17 +22,28 @@ PetVet aims to enhance the efficiency of veterinary clinics while providing pet 
 
 ## 👥 User Roles
 
+### 👤 Guest
+Guests can explore the system before creating an account.
+
+**Capabilities**
+- View general clinic information
+- Browse available veterinarians
+- View basic service details
+- Access registration and login pages
+
+---
+
 ### 🧑‍💼 Pet Owner
 Pet owners can manage their pets and appointments.
 
 **Capabilities**
 - Create and manage personal accounts
 - Add and manage multiple pet profiles
-- View pet information and medical history
-- Track vaccinations and treatments
+- View pet information including breed, age, and medical history
+- Track vaccination and treatment records
 - View available veterinarians
 - Book and manage veterinary appointments
-- Access appointment history
+- View appointment history
 
 ---
 
@@ -49,12 +60,12 @@ Veterinarians manage consultations and pet medical records.
 ---
 
 ### 🛠 Admin
-The administrator oversees system operations.
+The administrator manages the entire system.
 
 **Capabilities**
-- Manage users (pet owners and veterinarians)
-- Monitor system activity
-- Manage appointments
+- Manage user accounts (pet owners and veterinarians)
+- Monitor clinic operations
+- Manage appointment schedules
 - Maintain system data integrity
 
 ---
